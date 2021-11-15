@@ -5,3 +5,4 @@ print("dit wordt gepushed")
 print("dit is de code van Bjorn")
 
 print("pull 2")
+print("push 2")
